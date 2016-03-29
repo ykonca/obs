@@ -1,1 +1,2 @@
 # obs
+Amacı otomasyon yapmak
